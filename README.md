@@ -1,5 +1,5 @@
 # comp-sci-inspirational-references
-This repo will be a collection of references I use in my daily basis as a technologist
+This repo will be a collection of references I use in my daily basis as a technologist. This is my reference list based on another <a href="https://github.com/charlax/professional-programming">repo</a> I ran into. 
 
 ## Extreme Programming
 

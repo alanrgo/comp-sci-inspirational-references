@@ -43,5 +43,7 @@ This repo will be a collection of references I use in my daily basis as a techno
 ### POSCOMP 
 
 ### Data science
+#### Time Series
+1. <a href="https://www.youtube.com/watch?v=_K1OsqCicBY&t=9s&ab_channel=ThalesSehnK%C3%B6rting" target="_blank">Dynamic Time Warping Algorithm</a>
 
 ### Computational Neuroscience 

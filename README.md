@@ -7,7 +7,8 @@ This repo will be a collection of references I use in my daily basis as a techno
 1. <a href="https://martinfowler.com/bliki/TestDrivenDevelopment.html" target="_blank">Test Driven Development</a>
 
 ### Pair Programming
-1. <a href="https://www.youtube.com/watch?v=McZ131y0OYU&pp=ygUUcGFpcmluZyBhbnRpcGF0dGVybnM%3D" target="_blank"> Pair Programming </a>
+1. <a href="https://www.youtube.com/watch?v=E4cg5mmvpwo&pp=ygUQcGFpciBwcm9ncmFtbWluZw%3D%3D" target="_blank">Pair Programming Best Practices</a>
+2. <a href="https://www.youtube.com/watch?v=McZ131y0OYU&pp=ygUUcGFpcmluZyBhbnRpcGF0dGVybnM%3D" target="_blank">Pair Programming Anti Patterns</a>
 ### CI/CD
 ### Kanban 
 ### Shapes of testing

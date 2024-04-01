@@ -14,6 +14,7 @@ This repo will be a collection of references I use in my daily basis as a techno
 ### Shapes of testing
 ### Principles 
 1. <a href="https://martinfowler.com/bliki/Yagni.html" target="_blank">YAGNI</a>
+2. <a href="https://rigidity.medium.com/agile-waste-story-points-pt-1-a9df2572d0a3" target="_blank">Don't waste too much time estimating</a>
 
 ## Automated tests
 
